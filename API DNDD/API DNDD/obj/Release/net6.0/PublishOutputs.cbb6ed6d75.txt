@@ -1,0 +1,11 @@
+C:\Users\sebva\OneDrive\Skrivebord\DNDD\API DNDD\API DNDD\obj\Release\net6.0\PubTmp\Out\API DNDD.exe
+C:\Users\sebva\OneDrive\Skrivebord\DNDD\API DNDD\API DNDD\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\sebva\OneDrive\Skrivebord\DNDD\API DNDD\API DNDD\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\sebva\OneDrive\Skrivebord\DNDD\API DNDD\API DNDD\obj\Release\net6.0\PubTmp\Out\API DNDD.dll
+C:\Users\sebva\OneDrive\Skrivebord\DNDD\API DNDD\API DNDD\obj\Release\net6.0\PubTmp\Out\API DNDD.deps.json
+C:\Users\sebva\OneDrive\Skrivebord\DNDD\API DNDD\API DNDD\obj\Release\net6.0\PubTmp\Out\API DNDD.runtimeconfig.json
+C:\Users\sebva\OneDrive\Skrivebord\DNDD\API DNDD\API DNDD\obj\Release\net6.0\PubTmp\Out\API DNDD.pdb
+C:\Users\sebva\OneDrive\Skrivebord\DNDD\API DNDD\API DNDD\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\sebva\OneDrive\Skrivebord\DNDD\API DNDD\API DNDD\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sebva\OneDrive\Skrivebord\DNDD\API DNDD\API DNDD\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sebva\OneDrive\Skrivebord\DNDD\API DNDD\API DNDD\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
